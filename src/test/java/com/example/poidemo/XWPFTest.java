@@ -1,4 +1,4 @@
-package com.gzyijian.poi;
+package com.example.poidemo;
 
 import org.apache.poi.xwpf.usermodel.*;
 import org.junit.Test;
